@@ -2,7 +2,7 @@
 ## HTTP Server Implementation
 Project Detailed: https://wiki.linuxfoundation.org/gsoc/2023-gsoc-zephyr#project_1_http_server_implementation
 
-## Zephyr HTTP Server Demonstrate
+## Prerequisite Task Demonstrate
 ### Simple Socket-based program in C
 
 ![](/assets/image/webserver.png)
